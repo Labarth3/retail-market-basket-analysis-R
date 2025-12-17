@@ -59,9 +59,3 @@ for retail decision-making (bundles, cross-selling, merchandising).
    - `R/04_rules_filtering.R`
    - `R/05_visualization.R`
 3. Open `reports/report.html`
-
----
-
-## 👤 Author
-**Rayan Belharat**  
-Data / Business-oriented profile  
