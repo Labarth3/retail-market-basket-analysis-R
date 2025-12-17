@@ -1,0 +1,11 @@
+---
+title: "Retail Market Basket Analysis (Full R)"
+author: "Rayan Belharat"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+library(arules)
+library(arulesViz)
+library(dplyr)
